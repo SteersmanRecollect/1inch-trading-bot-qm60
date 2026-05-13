@@ -1,4 +1,4 @@
-# 
+# premium pancakeswap trading bot Module | market-making + yield-farming is the best pancakeswap trading bot, featuring market-making and yield-farming. Smart, fast, and optimized
 
 
 
